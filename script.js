@@ -25,8 +25,8 @@ const getBMI = (height, weight) => {
   return bmi
 }
 
-const height = 69
-const weight = 146
+const height = 72
+const weight = 180
 const heightCm = inchToCm(height)
 const weightKilo = lbsToKilo(weight)
 const bmi = getBMI(heightCm, weightKilo)
