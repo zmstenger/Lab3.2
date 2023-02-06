@@ -8,7 +8,7 @@ const item1 = {
 }
 const item2 = {
   name: 'Smartphone',
-  model: 'iPhone 12',
+  model: 'iPhone 13',
   cost: 999,
   quantity: 10,
 }
